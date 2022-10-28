@@ -1,0 +1,8 @@
+{
+  "name" : "Bored Ape Yacht Club #11",
+  "description" : "BAYC from Yuga Labs LLC",
+  "image" : "ipfs://bafybeidxnmfkylsb4x3xbul2x6s5tfyrjkxlps2qvkxv6i5vn5wrwujuya/11.jpg",
+  "external_link": "",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0x91E5C197dA46bE0fa7A438cb3b85Ef6aC4b662EC" 
+}
