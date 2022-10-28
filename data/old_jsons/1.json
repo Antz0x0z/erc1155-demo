@@ -1,0 +1,8 @@
+{
+  "name" : "Image Dark Man",
+  "description" : "Old Man NFT place on mainnet",
+  "image" : "ipfs://QmUuBhadVyK9rUsWZTgKdr8xLBDbwQyYBB1PCDttSQ7A3T/1.jpg",
+  "external_link": "https://crypto-emergency.com/about/",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0x91E5C197dA46bE0fa7A438cb3b85Ef6aC4b662EC" 
+}
